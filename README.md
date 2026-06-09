@@ -1,4 +1,5 @@
   Удобное десктопное приложение для отслеживания и ведения списков аниме.
+  
 Проект написан с помощью ИИ 
 <img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/cba7387a-398d-4434-9a82-2b8757d1aa17" />
 
