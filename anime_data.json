@@ -1,0 +1,64 @@
+[
+    {
+        "title": "Записки формацевта",
+        "link": "https://old.yummyani.me/catalog/item/monolog-farmatsevta-2026-06-04",
+        "voice": "Анилибрия",
+        "cover": "https://www.kino-teatr.ru/movie/posters/big/3/7/166473.jpg",
+        "season": 12,
+        "episode": 17,
+        "archived": true,
+        "favorite": true,
+        "rating": 5
+    },
+    {
+        "title": "Токийский гуль",
+        "link": "",
+        "voice": "",
+        "cover": "https://cdn.ananasposter.ru/image/cache/catalog/poster/mult/90/3943-1000x830.jpg",
+        "season": 1,
+        "episode": 0,
+        "archived": false,
+        "favorite": true
+    },
+    {
+        "title": "цуацуа",
+        "link": "",
+        "voice": "",
+        "cover": "https://basket-12.wbbasket.ru/vol1900/part190025/190025408/images/big/1.webp",
+        "season": 1,
+        "episode": 12,
+        "archived": true,
+        "favorite": false
+    },
+    {
+        "title": "цуацуа",
+        "link": "",
+        "voice": "",
+        "cover": "https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/nUYAAOSwhzNlr~A1/$_57.JPG?set_id=880000500F",
+        "season": 3,
+        "episode": 13,
+        "archived": false,
+        "favorite": true
+    },
+    {
+        "title": "цуацуа",
+        "link": "",
+        "voice": "",
+        "cover": "https://ir.ozone.ru/s3/multimedia-1-j/7018979131.jpg",
+        "season": 1,
+        "episode": 1,
+        "archived": true,
+        "favorite": false
+    },
+    {
+        "title": "цацуца",
+        "link": "",
+        "voice": "",
+        "cover": "",
+        "season": 3,
+        "episode": 3,
+        "archived": true,
+        "favorite": false,
+        "rating": null
+    }
+]

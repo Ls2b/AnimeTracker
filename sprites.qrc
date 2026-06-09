@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="icons">
+    <file>sprites/pencil.png</file>
+    <file>sprites/star_empty.png</file>
+    <file>sprites/star_full.png</file>
+    <file>sprites/trash.png</file>
+    <file>sprites/check.png</file>
+    <file>sprites/uncheck.png</file>
+    <file>sprites/app_icon.ico</file>
+</qresource>
+</RCC>
